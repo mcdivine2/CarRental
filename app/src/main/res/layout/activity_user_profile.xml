@@ -261,6 +261,12 @@
 
                     </androidx.cardview.widget.CardView>
 
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:srcCompat="@drawable/call" />
+
                 </LinearLayout>
 
             </androidx.cardview.widget.CardView>
