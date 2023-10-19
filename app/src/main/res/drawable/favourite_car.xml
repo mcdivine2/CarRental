@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:layout_height="match_parent" android:shape="rectangle">
+            <corners android:bottomLeftRadius="0dp" android:bottomRightRadius="0dp" android:radius="0dp" android:topLeftRadius="50dp" android:topRightRadius="50dp" /><!-- Adjust the radius as needed -->
+            <solid android:color="#673AB7" /> <!-- Change the color as needed -->
+
+        </shape>
+    </item>
+</selector>
